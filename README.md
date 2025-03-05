@@ -11,7 +11,6 @@
 ## Project Demonstration
 
 ### Simulation Snapshots  
-*(Replace the placeholder image below with a relevant figure from the specifications or reports showing the grid and ants in various states.)*  
 
 ![Ant Colony Simulation](images/simulation.png)
 
@@ -102,6 +101,6 @@
  ┃ ┣ 📜 constantes.h                      # Constants header file
  ┃ ┣ 📜 simulation.h.gch                  # Precompiled header
  ┣ 📂 images                              # Pictures
- ┣ 📂 test_files                                # Test files for optimization
+ ┣ 📂 test_files                          # Test files for optimization
 
 ```
